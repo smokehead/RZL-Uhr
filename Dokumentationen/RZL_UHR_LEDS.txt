@@ -1,0 +1,6 @@
+Hinweis zum Schaltplan in der FritzingZeichnung
+Die Schaltung ist falsch. Es wurde kein Unterschied zwischen Spalten und Zeilen
+gemacht. DIESE SCHALTUNG IST FALSCH. 
+Siehe Bild unter: 
+http://playground.arduino.cc/Main/MAX72XXHardware#WiringLedMatrix
+Die Verdrahtung muss geändert werden. 
